@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 # My GitHub Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=richardhoff88)](https://github.com/anuraghazra/github-readme-stats)
 
