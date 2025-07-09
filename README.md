@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Research interests**  
-My interest is in building scalable models for solving hard problems. I’m particularly interested in applications to self-driving vehicles and intelligent robotics, specifically through 
+My research interest is in building scalable models for solving hard problems. I’m particularly interested in applications to self-driving vehicles and intelligent robotics, specifically through 
 - spatial reasoning
 - large language models
 - model predictive control
